@@ -2,7 +2,7 @@
 ロボットシステム学追加課題
 
 ## LICENSE
-The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+The source code is licensed MIT. The website content is licensed ,see LICENSE.
 
 ## 動作環境
 OS:Ubuntu 18.04
@@ -18,6 +18,7 @@ $ git clone https://github.com/taketokomura/kadai3.git
 ```
 ## 使用方法
 ```
+$ gcc kadai3.c -o kadai3 -rm コンパイル
 $ ./kadai3　⇒　計算したい数値を入力
 ```
 ## youtube URL
