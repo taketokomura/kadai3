@@ -1,3 +1,5 @@
+/*header.h 素因数分解をするプログラム*/
+
 #include<stdio.h>
 #include<math.h>
 
