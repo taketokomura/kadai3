@@ -11,8 +11,8 @@ OS:Ubuntu 18.04
 ```
 $ git clone https://github.com/taketokomura/kadai3.git
 $ cd kadai3   
-$ gcc kadai3.c -lm -o kadai3  コンパイル
-$ ./kadai3　⇒　計算したい数値を入力
+$ gcc kadai3.c -lm -o kadai3
+$ ./kadai3
 ```
 
 ## 実装機能
