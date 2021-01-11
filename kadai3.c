@@ -1,4 +1,11 @@
-/*header.h 素因数分解をするプログラム*/
+/*
+Name        :kadai3.c
+Author      :komurataketo
+Version     :ubuntu20.04
+LICENSE     :The source code is licensed MIT. The website content is licensed ,see LICENSE.
+Description :Prime factorization
+*/
+
 
 #include<stdio.h>
 #include<math.h>
